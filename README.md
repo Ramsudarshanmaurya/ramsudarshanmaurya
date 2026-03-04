@@ -46,7 +46,8 @@ Developer me = {
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-E7352C?style=for-the-badge&logoColor=white)
+![ATmega328P](https://img.shields.io/badge/ATmega328P-003366?style=for-the-badge&logoColor=white)
 
 ### Communication Protocols
 ![UART](https://img.shields.io/badge/UART-1565C0?style=for-the-badge&logoColor=white)
